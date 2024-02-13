@@ -16,3 +16,6 @@ Berdasarkan permasalahan yang telah dipaparkan, pihak hotel ingin megetahui kara
 
 **Link Tableau :**
 https://public.tableau.com/app/profile/chasanah.nur.ikayanti/viz/HotelBookingDashboard_17078230063390/Dashboard?publish=yes
+
+**Link Model:**
+https://drive.google.com/file/d/1Kfm61S2fKIE0W1ebo7JGID_edkOO8L9a/view?usp=sharing
