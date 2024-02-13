@@ -13,3 +13,6 @@ LisGarve City & Resort Hotel adalah sebuah penginapan yang berada di Portugal. S
 **Goals:**
 
 Berdasarkan permasalahan yang telah dipaparkan, pihak hotel ingin megetahui karakteristik konsumen yang berpeluang membatalkan pemesanan hotel. Untuk meningkatkan pendapatan hotel, tim marketing hotel ingin membuat program yang lebih tepat sasaran kepada calon konsumen yang berpeluang melakukan pembatalan pemesanan.
+
+**Link Tableau :**
+https://public.tableau.com/app/profile/chasanah.nur.ikayanti/viz/HotelBookingDashboard_17078230063390/Dashboard?publish=yes
